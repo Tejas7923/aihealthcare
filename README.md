@@ -38,8 +38,8 @@ streamlit run app.py
 3. **Results & Insights** – Predictions are displayed along with probability scores and data visualizations.
 
 ## 📸 Screenshots
-*![Screenshot From 2025-03-24 16-44-29](https://github.com/user-attachments/assets/60afc2b1-9d9b-43b8-a2eb-43c0aa3fc69e)
-*
+![Screenshot From 2025-03-24 16-44-29](https://github.com/user-attachments/assets/60afc2b1-9d9b-43b8-a2eb-43c0aa3fc69e)
+
 
 ## 💡 Future Enhancements
 - 🔹 Expand the disease database for more accurate predictions.
